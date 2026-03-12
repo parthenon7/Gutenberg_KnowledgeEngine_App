@@ -1,3 +1,7 @@
+import sys
+import os
+# Force the Linux server to recognize the current folder as a module path
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 import streamlit as st
 import time
 import faiss
