@@ -1,0 +1,1186 @@
+{
+  "books": [
+    {
+      "id": 59775,
+      "author": "Library of Congress",
+      "title": "Motion pictures, 1912-1939",
+      "themes": [
+        "love",
+        "wealth",
+        "nature",
+        "justice",
+        "death"
+      ],
+      "genres": [
+        "fiction",
+        "education",
+        "history"
+      ],
+      "chunk_count": 5823
+    },
+    {
+      "id": 23000,
+      "author": "United States.  Central Intelligence Agency.",
+      "title": "The 2008 CIA World Factbook",
+      "themes": [
+        "wealth",
+        "war",
+        "justice",
+        "nature",
+        "death"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "law"
+      ],
+      "chunk_count": 5342
+    },
+    {
+      "id": 23001,
+      "author": "United States.  Central Intelligence Agency.",
+      "title": "The 2008 CIA World Factbook",
+      "themes": [
+        "wealth",
+        "war",
+        "justice",
+        "nature",
+        "death"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "law"
+      ],
+      "chunk_count": 5342
+    },
+    {
+      "id": 45264,
+      "author": "Jacques Casanova de Seingalt",
+      "title": "The Memoires of Casanova, Complete",
+      "themes": [
+        "love",
+        "wealth",
+        "religion",
+        "justice",
+        "suffering"
+      ],
+      "genres": [
+        "fiction",
+        "medicine",
+        "travel"
+      ],
+      "chunk_count": 3882
+    },
+    {
+      "id": 13356,
+      "author": "E. Farr and E. H. Nolan",
+      "title": "The History of England in Three Volumes, Vol.III.",
+      "themes": [
+        "war",
+        "justice",
+        "power",
+        "wealth",
+        "religion"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "history"
+      ],
+      "chunk_count": 3714
+    },
+    {
+      "id": 58241,
+      "author": "Thielem J. van Braght",
+      "title": "The Bloody Theatre, or Martyrs Mirror of the Defenseless",
+      "themes": [
+        "religion",
+        "love",
+        "suffering",
+        "death",
+        "morality"
+      ],
+      "genres": [
+        "religion",
+        "history",
+        "education"
+      ],
+      "chunk_count": 3577
+    },
+    {
+      "id": 8585,
+      "author": "Samuel Pepys",
+      "title": "Diary of Samuel Pepys, Complete",
+      "themes": [
+        "wealth",
+        "religion",
+        "love",
+        "nature",
+        "justice"
+      ],
+      "genres": [
+        "religion",
+        "politics",
+        "biography"
+      ],
+      "chunk_count": 3575
+    },
+    {
+      "id": 15558,
+      "author": "Andrew Ure",
+      "title": "A Dictionary of Arts, Manufactures and Mines",
+      "themes": [
+        "wealth",
+        "science",
+        "nature",
+        "power",
+        "knowledge"
+      ],
+      "genres": [
+        "economics",
+        "history",
+        "politics"
+      ],
+      "chunk_count": 3566
+    },
+    {
+      "id": 15559,
+      "author": "Andrew Ure",
+      "title": "A Dictionary of Arts, Manufactures and Mines",
+      "themes": [
+        "wealth",
+        "science",
+        "nature",
+        "power",
+        "knowledge"
+      ],
+      "genres": [
+        "economics",
+        "history",
+        "politics"
+      ],
+      "chunk_count": 3566
+    },
+    {
+      "id": 33944,
+      "author": "Unknown",
+      "title": "Project Gutenberg Edition of The Memoires of Four Civil War Generals",
+      "themes": [
+        "war",
+        "nature",
+        "liberty",
+        "justice",
+        "wealth"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "travel"
+      ],
+      "chunk_count": 3499
+    },
+    {
+      "id": 33945,
+      "author": "Unknown",
+      "title": "Project Gutenberg Edition of The Memoires of Four Civil War Generals",
+      "themes": [
+        "war",
+        "nature",
+        "liberty",
+        "justice",
+        "wealth"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "travel"
+      ],
+      "chunk_count": 3499
+    },
+    {
+      "id": 9005,
+      "author": "Goold Brown",
+      "title": "The Grammar of English Grammars",
+      "themes": [
+        "religion",
+        "knowledge",
+        "education",
+        "love",
+        "morality"
+      ],
+      "genres": [
+        "poetry",
+        "education",
+        "history"
+      ],
+      "chunk_count": 3464
+    },
+    {
+      "id": 9006,
+      "author": "Goold Brown",
+      "title": "The Grammar of English Grammars",
+      "themes": [
+        "religion",
+        "knowledge",
+        "education",
+        "love",
+        "morality"
+      ],
+      "genres": [
+        "poetry",
+        "education",
+        "history"
+      ],
+      "chunk_count": 3464
+    },
+    {
+      "id": 5756,
+      "author": "Richard Watson",
+      "title": "A Biblical and Theological Dictionary",
+      "themes": [
+        "religion",
+        "power",
+        "morality",
+        "knowledge",
+        "nature"
+      ],
+      "genres": [
+        "religion",
+        "history",
+        "travel"
+      ],
+      "chunk_count": 3303
+    },
+    {
+      "id": 20348,
+      "author": "American Anti-Slavery Society",
+      "title": "The Anti-Slavery Examiner, Omnibus",
+      "themes": [
+        "justice",
+        "liberty",
+        "religion",
+        "wealth",
+        "power"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "law"
+      ],
+      "chunk_count": 3226
+    },
+    {
+      "id": 20349,
+      "author": "American Anti-Slavery Society",
+      "title": "The Anti-Slavery Examiner, Omnibus",
+      "themes": [
+        "justice",
+        "liberty",
+        "religion",
+        "wealth",
+        "power"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "law"
+      ],
+      "chunk_count": 3226
+    },
+    {
+      "id": 37361,
+      "author": "John U. Wolff",
+      "title": "A Dictionary of Cebuano Visayan",
+      "themes": [
+        "wealth",
+        "education",
+        "death",
+        "religion",
+        "nature"
+      ],
+      "genres": [
+        "medicine",
+        "education",
+        "poetry"
+      ],
+      "chunk_count": 3158
+    },
+    {
+      "id": 59882,
+      "author": "Copyright Office Library of Congress",
+      "title": "Motion pictures, 1940-1949",
+      "themes": [
+        "war",
+        "nature",
+        "death",
+        "education",
+        "love"
+      ],
+      "genres": [
+        "fiction",
+        "politics",
+        "medicine"
+      ],
+      "chunk_count": 3101
+    },
+    {
+      "id": 51194,
+      "author": "Harrods Ltd",
+      "title": "Harrods for Everything",
+      "themes": [
+        "wealth",
+        "nature",
+        "love",
+        "war",
+        "religion"
+      ],
+      "genres": [
+        "economics",
+        "history",
+        "biography"
+      ],
+      "chunk_count": 3044
+    },
+    {
+      "id": 28770,
+      "author": "Copyright Office. Library of Congress.",
+      "title": "Motion Pictures 1960-1969",
+      "themes": [
+        "education",
+        "death",
+        "war",
+        "science",
+        "love"
+      ],
+      "genres": [
+        "fiction",
+        "education",
+        "history"
+      ],
+      "chunk_count": 2956
+    },
+    {
+      "id": 28771,
+      "author": "Copyright Office. Library of Congress.",
+      "title": "Motion Pictures 1960-1969",
+      "themes": [
+        "education",
+        "death",
+        "war",
+        "science",
+        "love"
+      ],
+      "genres": [
+        "fiction",
+        "education",
+        "history"
+      ],
+      "chunk_count": 2956
+    },
+    {
+      "id": 2380,
+      "author": "Henry Yule",
+      "title": "Hobson-Jobson",
+      "themes": [
+        "wealth",
+        "nature",
+        "war",
+        "justice",
+        "religion"
+      ],
+      "genres": [
+        "history",
+        "economics",
+        "travel"
+      ],
+      "chunk_count": 2944
+    },
+    {
+      "id": 25770,
+      "author": "Margaret Jackson",
+      "title": "The Book Review Digest, Volume 13, 1917",
+      "themes": [
+        "war",
+        "education",
+        "society",
+        "love",
+        "science"
+      ],
+      "genres": [
+        "fiction",
+        "history",
+        "education"
+      ],
+      "chunk_count": 2873
+    },
+    {
+      "id": 937,
+      "author": "Various",
+      "title": "The Southern Literary Messenger, Volume I., 1834-35",
+      "themes": [
+        "love",
+        "nature",
+        "wealth",
+        "death",
+        "religion"
+      ],
+      "genres": [
+        "fiction",
+        "education",
+        "politics"
+      ],
+      "chunk_count": 2814
+    },
+    {
+      "id": 938,
+      "author": "Various",
+      "title": "The Southern Literary Messenger, Volume I., 1834-35",
+      "themes": [
+        "love",
+        "nature",
+        "wealth",
+        "death",
+        "religion"
+      ],
+      "genres": [
+        "fiction",
+        "education",
+        "politics"
+      ],
+      "chunk_count": 2814
+    },
+    {
+      "id": 20782,
+      "author": "Anonymous",
+      "title": "Charles Peace",
+      "themes": [
+        "justice",
+        "death",
+        "wealth",
+        "love",
+        "suffering"
+      ],
+      "genres": [
+        "fiction",
+        "law",
+        "travel"
+      ],
+      "chunk_count": 2801
+    },
+    {
+      "id": 19740,
+      "author": "John Florio",
+      "title": "Queen Anna's New World of Words",
+      "themes": [
+        "religion",
+        "nature",
+        "wealth",
+        "power",
+        "love"
+      ],
+      "genres": [
+        "law",
+        "education",
+        "economics"
+      ],
+      "chunk_count": 2799
+    },
+    {
+      "id": 10019,
+      "author": "Various",
+      "title": "The Circle of Knowledge",
+      "themes": [
+        "war",
+        "power",
+        "nature",
+        "wealth",
+        "education"
+      ],
+      "genres": [
+        "history",
+        "politics",
+        "economics"
+      ],
+      "chunk_count": 2790
+    },
+    {
+      "id": 5738,
+      "author": "Arnold Cooley",
+      "title": "Cooley's Cyclopaedia of Practical Receipts, Sixth Ed., Volume II",
+      "themes": [
+        "science",
+        "wealth",
+        "nature",
+        "death",
+        "power"
+      ],
+      "genres": [
+        "medicine",
+        "economics",
+        "history"
+      ],
+      "chunk_count": 2769
+    },
+    {
+      "id": 5739,
+      "author": "Arnold Cooley",
+      "title": "Cooley's Cyclopaedia of Practical Receipts, Sixth Ed., Volume II",
+      "themes": [
+        "science",
+        "wealth",
+        "nature",
+        "death",
+        "power"
+      ],
+      "genres": [
+        "medicine",
+        "economics",
+        "history"
+      ],
+      "chunk_count": 2769
+    },
+    {
+      "id": 9505,
+      "author": "Arnold Cooley",
+      "title": "Cooley's Cyclop\u00e6dia of Practical Receipts and Collateral Information in the Arts, Manufactures, Professions, and Trades..., Sixth Edition, Volume I",
+      "themes": [
+        "wealth",
+        "death",
+        "science",
+        "nature",
+        "war"
+      ],
+      "genres": [
+        "medicine",
+        "economics",
+        "science"
+      ],
+      "chunk_count": 2754
+    },
+    {
+      "id": 9506,
+      "author": "Arnold Cooley",
+      "title": "Cooley's Cyclop\u00e6dia of Practical Receipts and Collateral Information in the Arts, Manufactures, Professions, and Trades..., Sixth Edition, Volume I",
+      "themes": [
+        "wealth",
+        "death",
+        "science",
+        "nature",
+        "war"
+      ],
+      "genres": [
+        "medicine",
+        "economics",
+        "science"
+      ],
+      "chunk_count": 2754
+    },
+    {
+      "id": 61296,
+      "author": "Various",
+      "title": "The King James Bible, Complete",
+      "themes": [
+        "religion",
+        "nature",
+        "love",
+        "morality",
+        "wealth"
+      ],
+      "genres": [
+        "religion",
+        "travel",
+        "law"
+      ],
+      "chunk_count": 2744
+    },
+    {
+      "id": 61297,
+      "author": "Various",
+      "title": "The King James Bible, Complete",
+      "themes": [
+        "religion",
+        "nature",
+        "love",
+        "morality",
+        "wealth"
+      ],
+      "genres": [
+        "religion",
+        "travel",
+        "law"
+      ],
+      "chunk_count": 2744
+    },
+    {
+      "id": 28182,
+      "author": "Thomas Hart Benton",
+      "title": "Abridgment of the Debates of Congress, from 1789 to 1856, Vol. I (of 16)",
+      "themes": [
+        "wealth",
+        "justice",
+        "war",
+        "power",
+        "liberty"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "law"
+      ],
+      "chunk_count": 2621
+    },
+    {
+      "id": 28183,
+      "author": "Thomas Hart Benton",
+      "title": "Abridgment of the Debates of Congress, from 1789 to 1856, Vol. I (of 16)",
+      "themes": [
+        "wealth",
+        "justice",
+        "war",
+        "power",
+        "liberty"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "law"
+      ],
+      "chunk_count": 2621
+    },
+    {
+      "id": 4080,
+      "author": "Tobias Smollett",
+      "title": "The History of England in Three Volumes, Vol.II.",
+      "themes": [
+        "war",
+        "wealth",
+        "justice",
+        "power",
+        "death"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "travel"
+      ],
+      "chunk_count": 2577
+    },
+    {
+      "id": 4081,
+      "author": "Tobias Smollett",
+      "title": "The History of England in Three Volumes, Vol.II.",
+      "themes": [
+        "war",
+        "wealth",
+        "justice",
+        "power",
+        "death"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "travel"
+      ],
+      "chunk_count": 2577
+    },
+    {
+      "id": 16532,
+      "author": "Joshua Rose",
+      "title": "Modern Machine-Shop Practice, Volumes I and II",
+      "themes": [
+        "truth",
+        "morality",
+        "justice",
+        "liberty",
+        "power"
+      ],
+      "genres": [
+        "economics",
+        "science"
+      ],
+      "chunk_count": 2563
+    },
+    {
+      "id": 16533,
+      "author": "Joshua Rose",
+      "title": "Modern Machine-Shop Practice, Volumes I and II",
+      "themes": [
+        "truth",
+        "morality",
+        "justice",
+        "liberty",
+        "power"
+      ],
+      "genres": [
+        "economics",
+        "science"
+      ],
+      "chunk_count": 2563
+    },
+    {
+      "id": 9513,
+      "author": "Alexander Peterkin",
+      "title": "Records of the Kirk of Scotland",
+      "themes": [
+        "religion",
+        "power",
+        "love",
+        "justice",
+        "war"
+      ],
+      "genres": [
+        "politics",
+        "religion",
+        "law"
+      ],
+      "chunk_count": 2518
+    },
+    {
+      "id": 42378,
+      "author": "Thomas Hart Benton",
+      "title": "Abridgment of the Debates of Congress, from 1789 to 1856, Vol. II (of 16)",
+      "themes": [
+        "justice",
+        "wealth",
+        "war",
+        "power",
+        "liberty"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "law"
+      ],
+      "chunk_count": 2513
+    },
+    {
+      "id": 42379,
+      "author": "Thomas Hart Benton",
+      "title": "Abridgment of the Debates of Congress, from 1789 to 1856, Vol. II (of 16)",
+      "themes": [
+        "justice",
+        "wealth",
+        "war",
+        "power",
+        "liberty"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "law"
+      ],
+      "chunk_count": 2513
+    },
+    {
+      "id": 13667,
+      "author": "Various",
+      "title": "Abridgement of the Debates of Congress, from 1789 to 1856 (4 of 16 vol.)",
+      "themes": [
+        "war",
+        "wealth",
+        "justice",
+        "power",
+        "liberty"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "law"
+      ],
+      "chunk_count": 2472
+    },
+    {
+      "id": 13668,
+      "author": "Various",
+      "title": "Abridgement of the Debates of Congress, from 1789 to 1856 (4 of 16 vol.)",
+      "themes": [
+        "war",
+        "wealth",
+        "justice",
+        "power",
+        "liberty"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "law"
+      ],
+      "chunk_count": 2472
+    },
+    {
+      "id": 18072,
+      "author": "Various",
+      "title": "A System of Practical Medicine By American Authors, Vol. II",
+      "themes": [
+        "death",
+        "suffering",
+        "science",
+        "love",
+        "knowledge"
+      ],
+      "genres": [
+        "medicine",
+        "history",
+        "science"
+      ],
+      "chunk_count": 2459
+    },
+    {
+      "id": 18073,
+      "author": "Various",
+      "title": "A System of Practical Medicine By American Authors, Vol. II",
+      "themes": [
+        "death",
+        "suffering",
+        "science",
+        "love",
+        "knowledge"
+      ],
+      "genres": [
+        "medicine",
+        "history",
+        "science"
+      ],
+      "chunk_count": 2459
+    },
+    {
+      "id": 50773,
+      "author": "Copyright Office Library of Congress.",
+      "title": "Motion Pictures, 1950-1959",
+      "themes": [
+        "education",
+        "nature",
+        "death",
+        "wealth",
+        "love"
+      ],
+      "genres": [
+        "fiction",
+        "education",
+        "history"
+      ],
+      "chunk_count": 2449
+    },
+    {
+      "id": 35428,
+      "author": "J. H. Kurtz",
+      "title": "Church History (Volumes 1-3)",
+      "themes": [
+        "religion",
+        "power",
+        "education",
+        "war",
+        "justice"
+      ],
+      "genres": [
+        "religion",
+        "history",
+        "politics"
+      ],
+      "chunk_count": 2418
+    },
+    {
+      "id": 25477,
+      "author": "Unknown",
+      "title": "Abridgement of the Debates of Congress, from 1789 to 1856, Vol. 3 (of 16)",
+      "themes": [
+        "justice",
+        "power",
+        "war",
+        "wealth",
+        "liberty"
+      ],
+      "genres": [
+        "politics",
+        "law",
+        "economics"
+      ],
+      "chunk_count": 2415
+    }
+  ],
+  "theme_index": {
+    "love": [
+      937,
+      938,
+      9005,
+      9006,
+      9513,
+      8585,
+      18072,
+      18073,
+      19740,
+      20782,
+      25770,
+      28770,
+      28771,
+      45264,
+      50773,
+      51194,
+      58241,
+      61296,
+      61297,
+      59882,
+      59775
+    ],
+    "wealth": [
+      4080,
+      4081,
+      2380,
+      937,
+      938,
+      5738,
+      5739,
+      9505,
+      9506,
+      8585,
+      10019,
+      13667,
+      13668,
+      13356,
+      15558,
+      15559,
+      20348,
+      20349,
+      19740,
+      20782,
+      23000,
+      23001,
+      25477,
+      28182,
+      28183,
+      33944,
+      33945,
+      37361,
+      42378,
+      42379,
+      45264,
+      50773,
+      51194,
+      61296,
+      61297,
+      59775
+    ],
+    "education": [
+      9005,
+      9006,
+      10019,
+      25770,
+      28770,
+      28771,
+      35428,
+      37361,
+      50773,
+      59882
+    ],
+    "suffering": [
+      18072,
+      18073,
+      20782,
+      45264,
+      58241
+    ],
+    "death": [
+      4080,
+      4081,
+      937,
+      938,
+      5738,
+      5739,
+      9505,
+      9506,
+      18072,
+      18073,
+      20782,
+      23000,
+      23001,
+      28770,
+      28771,
+      37361,
+      50773,
+      58241,
+      59882,
+      59775
+    ],
+    "society": [
+      25770
+    ],
+    "science": [
+      5738,
+      5739,
+      9505,
+      9506,
+      15558,
+      15559,
+      18072,
+      18073,
+      25770,
+      28770,
+      28771
+    ],
+    "truth": [
+      16532,
+      16533
+    ],
+    "justice": [
+      4080,
+      4081,
+      2380,
+      9513,
+      8585,
+      13667,
+      13668,
+      13356,
+      16532,
+      16533,
+      20348,
+      20349,
+      20782,
+      23000,
+      23001,
+      25477,
+      28182,
+      28183,
+      33944,
+      33945,
+      35428,
+      42378,
+      42379,
+      45264,
+      59775
+    ],
+    "war": [
+      4080,
+      4081,
+      2380,
+      9505,
+      9506,
+      9513,
+      10019,
+      13667,
+      13668,
+      13356,
+      23000,
+      23001,
+      25477,
+      25770,
+      28182,
+      28183,
+      28770,
+      28771,
+      33944,
+      33945,
+      35428,
+      42378,
+      42379,
+      51194,
+      59882
+    ],
+    "nature": [
+      2380,
+      937,
+      938,
+      5738,
+      5739,
+      5756,
+      9505,
+      9506,
+      8585,
+      10019,
+      15558,
+      15559,
+      19740,
+      23000,
+      23001,
+      33944,
+      33945,
+      37361,
+      50773,
+      51194,
+      61296,
+      61297,
+      59882,
+      59775
+    ],
+    "religion": [
+      2380,
+      937,
+      938,
+      5756,
+      9005,
+      9006,
+      9513,
+      8585,
+      13356,
+      20348,
+      20349,
+      19740,
+      35428,
+      37361,
+      45264,
+      51194,
+      58241,
+      61296,
+      61297
+    ],
+    "power": [
+      4080,
+      4081,
+      5738,
+      5739,
+      5756,
+      9513,
+      10019,
+      13667,
+      13668,
+      13356,
+      15558,
+      15559,
+      16532,
+      16533,
+      20348,
+      20349,
+      19740,
+      25477,
+      28182,
+      28183,
+      35428,
+      42378,
+      42379
+    ],
+    "knowledge": [
+      5756,
+      9005,
+      9006,
+      15558,
+      15559,
+      18072,
+      18073
+    ],
+    "morality": [
+      5756,
+      9005,
+      9006,
+      16532,
+      16533,
+      58241,
+      61296,
+      61297
+    ],
+    "liberty": [
+      13667,
+      13668,
+      16532,
+      16533,
+      20348,
+      20349,
+      25477,
+      28182,
+      28183,
+      33944,
+      33945,
+      42378,
+      42379
+    ]
+  }
+}
